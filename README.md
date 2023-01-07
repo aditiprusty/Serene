@@ -1,5 +1,5 @@
 # Serene 
-This is a stress-relieving website project made for the hackathon [Hackofiesta](https://hack.iiitl.ac.in/). 
+This is a stress-relieving website project made for the hackathon [HackNITR](https://www.hacknitr.com/). 
 This project is under the theme **Healthcare.**
 This was our first hackathon.
 
@@ -63,16 +63,21 @@ For contributing guidelines and standards, visit [contributing.md](https://githu
 
 <table>
   <tr>
-<td align="center"><a href="https://www.linkedin.com/in/aditi-prusty-44987822b/"><img src="https://avatars.githubusercontent.com/u/79099734?v=4" width="100px;" alt=""/><br /><sub><b>Aditi Prusty</b></sub></a></td>
+<td align="center"><a href="https://www.linkedin.com/in/aditi-prusty-44987822b/"><img src="https://media.licdn.com/dms/image/C4D03AQElPCXxYEZY5g/profile-displayphoto-shrink_800_800/0/1662227340408?e=1678320000&v=beta&t=r7PFrXmbNHTvlK7c01DTpmPBShajXVyZU5CAeOUYhJ8" width="100px;" alt=""/><br /><sub><b>Aditi Prusty</b></sub></a></td>
   </tr>
 </table>
 
-<h2>Project Contributors⭐</h2>   <a name = "contributors"></a>
+<h2>Project Contributors⭐</h2><a name = "contributors"></a>
 <table align="center">
 <tr>
 <td>
-<a href="https://www.linkedin.com/in/aditi-prusty-44987822b/" align="center">
-  <img src="https://www.linkedin.com/in/aditi-prusty-44987822b/" /> 
+<a href="https://www.linkedin.com/in/aryaadityadash/" align="center">
+  <img src="https://media.licdn.com/dms/image/C4D03AQHnD-WwESVTAA/profile-displayphoto-shrink_800_800/0/1662792976477?e=1678320000&v=beta&t=_suoqF0r_hJAqi7FHGA27HOpgb2fAMKl7RyoDkRj5GQ" width="100px;"/><br/><sub><b>Arya Aditya Dash</b>
+</a>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/vivekmohanta03/" align="center">
+  <img src="https://media.licdn.com/dms/image/C4D03AQHDAPu75sAZaQ/profile-displayphoto-shrink_800_800/0/1643471596245?e=1678320000&v=beta&t=fottY_3ixRPdb_iwV1pRPcN_gdOwFZfLAtdySs3H1gI" width="100px;"/><br/><sub><b>Vivek Kumar Mohanta</b>
 </a>
 </td>
 </tr>
